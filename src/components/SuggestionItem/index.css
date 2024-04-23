@@ -1,0 +1,29 @@
+/* Write your CSS here */
+
+.suggestion-item {
+  display: flex;
+  justify-content: space-between;
+
+  padding: 2px;
+  margin-right: 10px;
+}
+
+.arrow-img {
+  height: 20px;
+  width: 20px;
+  color: black;
+  background-color: transparent;
+  cursor: pointer;
+
+  border-radius: 0px;
+  outline: none;
+}
+.suggetion-text {
+  font-size: 20px;
+}
+
+.button-arrow {
+  background-color: transparent;
+  outline: none;
+  border: none;
+}
